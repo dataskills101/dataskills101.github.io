@@ -6,6 +6,6 @@ This page houses a great set of resources for learning python basic and pandas i
 
 Learn the [Tools](https://dataskills101.github.io/tools)
 
-Code Along [With Me](https://dataskills.github.io/notebooks)
+Code Along [With Me](https://dataskills101.github.io/notebooks)
 
 Grow [Your Mind](https://dataskills101.github.io/super_growth_formula.pdf)
